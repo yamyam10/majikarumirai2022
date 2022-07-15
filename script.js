@@ -14,7 +14,7 @@ const { Player } = TextAliveApp;
 const player = new Player({
   // トークンは https://developer.textalive.jp/profile で取得したものを使う
   app: {
-      token: "JY0mLoHiX3lPTJaS",
+      token: "HgJsstqt4RYuQUur",
       parameters: [
           {
               title: "Gradation start color",
